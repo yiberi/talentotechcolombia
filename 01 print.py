@@ -1,0 +1,6 @@
+print("hola mundo")
+print("rumbo a la programacuion")
+print("Me encanta estudiar python")
+print("Estudiar con python total es super divertido")
+print("sumar 500+55")
+print("sumar ("500+55")")
